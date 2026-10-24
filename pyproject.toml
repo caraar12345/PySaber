@@ -18,7 +18,7 @@ dependencies = [
         "halo == 0.0.31",
         "tabulate == 0.8.10",
         "wcwidth == 0.2.6",
-        "spotipy == 2.22.1",
+        "spotipy == 2.25.2",
         ]
 requires-python = ">=3.9"
 classifiers = [
